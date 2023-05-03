@@ -1,6 +1,6 @@
-- Hi, I’m @CeSaRMr07
-- I’m interested in learning how to code 
-- I’m currently learning HTML, CSS and Javascript
+Hello,
+
+My name is cesar, and im currently learning to code so i dont know much which is why im here to learn and practice.
 
 <!---
 CeSaRMr07/CeSaRMr07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
